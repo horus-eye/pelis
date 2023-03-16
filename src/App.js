@@ -35,7 +35,7 @@ function App() {
       </aside>
       {/*Pie de página*/}
       <footer className="footer">
-        &copy; Máster en React - <a href="/#">victorroblesweb.es</a>
+        &copy; App en React - <a href="/#">Nachito-Apps&copy;2023</a>
       </footer>
     </div>
   );

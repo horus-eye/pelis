@@ -196,11 +196,14 @@ input[type="button"] {
   text-align: left;
   line-height: 68px;
   padding-left: 25px;
+  text-align: center;
+  justify-content: center;
 }
 
 .footer a {
   color: #0b468a;
   text-decoration: none;
+
 }
 
 @media (max-width: 1085px) {
