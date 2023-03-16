@@ -1,0 +1,2 @@
+son funciones de ayuda o metodo de ayuda
+separan la logica del otro codigo , es reutilizable
